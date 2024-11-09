@@ -1,0 +1,11 @@
+name: dupePlugin
+version: '1.0'
+main: de.jutechs.dupePlugin.Main
+api-version: '1.21'
+commands:
+  dupe:
+    description: Duplicates your inventory items.
+    usage: /dupe
+  dupeinfo:
+    description: Displays the current delay for /dupe.
+    usage: /dupeinfo
